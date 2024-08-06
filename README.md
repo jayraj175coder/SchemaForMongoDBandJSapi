@@ -2,7 +2,7 @@ ASSIGNMENT-B    Backend
 
 MongoDB Schema Document
 1. User Schema
-Schema:
+
 
 {
   "_id": "ObjectId",
