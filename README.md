@@ -29,10 +29,10 @@ Example Document:
 {
   "_id": "64b15c7e8d2e4f0d90e0f1b2",
   "username": "john_doe",
-  "email": "john.doe@example.com",
+  "email": "sanasd3@example.com",
   "passwordHash": "$2a$12$KIX1npOlX4YOuZqE5O2y6.GgF2Q/J3q5oc/pXitKmdJcOT0MwX3Dq",
   "fullName": "John Doe",
-  "profilePicture": "https://example.com/profile/john_doe.jpg",
+  "profilePicture": "https://example.com/profile/me.jpg",
   "friends": [
     {
       "userId": "64b15c7e8d2e4f0d90e0f1b3",
